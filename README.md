@@ -4,21 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>개인정보처리방침</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #222;
-    }
-    p {
-      margin-bottom: 1em;
-    }
-  </style>
 </head>
 <body>
   <h1>개인정보처리방침</h1>
